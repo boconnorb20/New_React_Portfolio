@@ -22,19 +22,19 @@ const Header = () =>  (
       </li>
       <li>
         <Link href= "#Tech">
-          <NavLink>Technology</NavLink>
+          <NavLink>Technologies</NavLink>
         </Link>
       </li> <li>
         <Link href= "#About">
-          <NavLink>About</NavLink>
+          <NavLink>About Me</NavLink>
         </Link>
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com">
+      <SocialIcons href="https://github.com/boconnorb20">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://linkedin.com">
+      <SocialIcons href="https://www.linkedin.com/in/brian-o-connor-12b60b135/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://instagram.com">

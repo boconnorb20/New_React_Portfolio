@@ -43,7 +43,7 @@ const Timeline = () => {
   }, []);
 
   return (
-    <Section id="about">
+    <Section id="About Me">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         My family and I have made this plunge into the Web Dev world. I am currently invloved in a Full Stack Bootcamp and am nearing the end of the course.
