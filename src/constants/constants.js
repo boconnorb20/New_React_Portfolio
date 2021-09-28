@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  // { year: 2017, text: '', },
+  // { year: 2018, text: '', },
+  { year: 2013, text: 'Started my Oil Field journey that started me out from working my way from the ground to a Supervisor/Engineer role ', },
+  { year: 2020, text: 'From 2013-2020 I spent working in the Oil Fields of ND and W-TX', },
+  { year: 2021, text: 'Started my Journey', },
 ];
