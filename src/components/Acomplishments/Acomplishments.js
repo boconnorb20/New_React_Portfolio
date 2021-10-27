@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 25, text: 'GitHub Repos'},
-  { number: 6, text: 'SMU BootCamp', },
+  { number: 6, text: 'SMU BootCamp Full Stack Certification', },
   { number: 7, text: 'Udemy-Courses', },
   { number: `%`, text: 'Learning Everyday', }
 ];
